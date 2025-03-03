@@ -18,10 +18,16 @@ Welcome to my professional data engineering portfolio. Here, you'll find a colle
 1. Fact tables are stored as daily snapshot tables to maintain historical transaction data.
 2. Dimension tables are implemented as Slowly Changing Dimension (SCD) Type 2, preserving historical changes in customer and product information.
 3. Staging area holds 7 daily snapshots, allowing for historical tracking and auditing before data moves to the DWH.
-- 📌 **Technologies Used:** SQL Server, Oracle and Informatica Data Engineering Integration.
+- 📌 **Technologies Used:** SQL Server, Oracle, and Informatica Data Engineering Integration.
 - 🔗 **Repository:** [View on GitHub](https://github.com/alisherif98/DWH_Building)
 
 ---
+
+### 3️⃣ University Data Management System
+**Description:** This project is a comprehensive University Data Management System designed to handle and optimize student, course, instructor, and department data. It involved designing an Entity-Relationship Diagram (ERD) and logical schema, developing SQL scripts for database creation, and implementing advanced database features such as triggers, procedures, and functions to automate operations.
+- 📌 **Technologies Used:**  Oracle SQL, PL/SQL, and Bash Scripting.
+- 🔗 **Repository:** [View on GitHub](https://github.com/alisherif98/PL-SQL_University_Project)
+
 
 ## 📬 Get in Touch
 - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
