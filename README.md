@@ -30,5 +30,5 @@ Welcome to my professional data engineering portfolio. Here, you'll find a colle
 
 
 ## 📬 Get in Touch
-- ![LinkedIn](https://img.icons8.com/color/48/linkedin.png) (https://www.linkedin.com/in/alisherif98/)
+- [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/alisherif98/)
 - 📧 Email: Ali_ElSayed_Sherif@outlook.com
