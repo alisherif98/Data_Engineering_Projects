@@ -6,10 +6,11 @@ Welcome to my professional data engineering portfolio. Here, you'll find a colle
 
 ## 🚀 Featured Projects
 
-### 1️⃣ Credit Cards ETL Project
-**Description:** This project implements an ETL (Extract, Transform, Load) process for credit card data using Informatica Data Engineering Integration and Oracle SQL. The ETL pipeline reads data from multiple source tables, applies transformations, and loads it into target tables with business rules such as data masking, filtering, and surrogate key generation.
-- 📌 **Technologies Used:** Informatica Data Engineering Integration and Oracle SQL.
-- 🔗 **Repository:** [View on GitHub](https://github.com/alisherif98/ETL_Credit_Cards_data_System)
+### 1️⃣ ETL Pipeline for Data Warehouse (DWH) with Slowly Changing Dimensions
+**Description:** When converting a large Oracle table (~5GB) to XML using Informatica Data Engineering Integration (DEI), the Data Processor had a 100MB buffer limit, making it impossible to process all data in one go. The challenge was to efficiently process the large dataset while staying within Informatica's memory constraints.
+- 📌 **Technologies Used:** PowerShell Scripting, XML, Oracle, and Informatica Data Engineering Integration.
+- 🔗 **Repository:** [View on GitHub](https://github.com/alisherif98/Informatica_DEI_Data_Processor_Optimization)
+
 
 ---
 
@@ -23,11 +24,19 @@ Welcome to my professional data engineering portfolio. Here, you'll find a colle
 
 ---
 
-### 3️⃣ University Data Management System
+### 3️⃣ Credit Cards ETL Project
+**Description:** This project implements an ETL (Extract, Transform, Load) process for credit card data using Informatica Data Engineering Integration and Oracle SQL. The ETL pipeline reads data from multiple source tables, applies transformations, and loads it into target tables with business rules such as data masking, filtering, and surrogate key generation.
+- 📌 **Technologies Used:** Informatica Data Engineering Integration and Oracle SQL.
+- 🔗 **Repository:** [View on GitHub](https://github.com/alisherif98/ETL_Credit_Cards_data_System)
+
+---
+
+### 4️⃣ University Data Management System
 **Description:** This project is a comprehensive University Data Management System designed to handle and optimize student, course, instructor, and department data. It involved designing an Entity-Relationship Diagram (ERD) and logical schema, developing SQL scripts for database creation, and implementing advanced database features such as triggers, procedures, and functions to automate operations.
 - 📌 **Technologies Used:**  Oracle SQL, PL/SQL, and Bash Scripting.
 - 🔗 **Repository:** [View on GitHub](https://github.com/alisherif98/PL-SQL_University_Project)
 
+---
 
 ## 📬 Get in Touch
 - 🌐 [LinkedIn](https://www.linkedin.com/in/alisherif98/)
