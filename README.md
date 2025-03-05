@@ -6,7 +6,7 @@ Welcome to my professional data engineering portfolio. Here, you'll find a colle
 
 ## 🚀 Featured Projects
 
-### 1️⃣ ETL Pipeline for Data Warehouse (DWH) with Slowly Changing Dimensions
+### 1️⃣ Informatica DEI Data Processor Optimization
 **Description:** When converting a large Oracle table (~5GB) to XML using Informatica Data Engineering Integration (DEI), the Data Processor had a 100MB buffer limit, making it impossible to process all data in one go. The challenge was to efficiently process the large dataset while staying within Informatica's memory constraints.
 - 📌 **Technologies Used:** PowerShell Scripting, XML, Oracle, and Informatica Data Engineering Integration.
 - 🔗 **Repository:** [View on GitHub](https://github.com/alisherif98/Informatica_DEI_Data_Processor_Optimization)
