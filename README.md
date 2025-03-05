@@ -40,4 +40,4 @@ Welcome to my professional data engineering portfolio. Here, you'll find a colle
 
 ## 📬 Get in Touch
 - 🌐 [LinkedIn](https://www.linkedin.com/in/alisherif98/)
-- 📧 Email: Ali_ElSayed_Sherif@outlook.com
+- 📧 Email: alisherif560@gmail.com
